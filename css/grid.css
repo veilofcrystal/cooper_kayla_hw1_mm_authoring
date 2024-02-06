@@ -1,0 +1,19 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.grid-con {
+    display: grid;
+    grid-template-columns: repeat(4 ,73px);
+    column-gap: 30px;
+    max-width: 382px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.col-span-full {
+    grid-column: 1/-1
+
+}
