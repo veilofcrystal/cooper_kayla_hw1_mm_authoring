@@ -65,37 +65,37 @@ button {
 
 /* food bowl animations */
 
-#catfood:hover{
+#food:hover{
     animation: bounce 3s ease-out infinite;
 
 }
 
-#catfood:hover .food-2{
+#food:hover .food-2{
     fill:black;
     stroke:black;
 }
 
-#catfood:hover .food-3{
+#food:hover .food-3{
     fill:black;
     stroke:black;
 }
 
-#catfood:hover .food-4{
+#food:hover .food-4{
     fill:black;
     stroke:black;
 }
 
-#catfood:hover .food-5{
+#food:hover .food-5{
     fill:black;
     stroke:black;
 }
 
-#catfood:hover .food-13{
+#food:hover .food-13{
     fill:black;
     stroke:black;
 }
 
-#catfood:hover .food-11{
+#food:hover .food-11{
     fill:black;
     stroke:black;
 }
