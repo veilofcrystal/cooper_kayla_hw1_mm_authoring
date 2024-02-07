@@ -40,17 +40,17 @@ button {
 
 /*cat face animation*/
 
-#cat-face:hover {
+#catface:hover {
     animation: spin 3s ease-out infinite ;
 }
 
-#cat-face:hover .cls-1 {
+#catface:hover .cls-1 {
     fill:black;
 }
 
 
 
-#cat-face:hover .cls-7{
+#catface:hover .cls-7{
     fill:white;
 }
 @keyframes spin {
@@ -65,37 +65,37 @@ button {
 
 /* food bowl animations */
 
-#cat-food:hover{
+#catfood:hover{
     animation: bounce 3s ease-out infinite;
 
 }
 
-#cat-food:hover .food-2{
+#catfood:hover .food-2{
     fill:black;
     stroke:black;
 }
 
-#cat-food:hover .food-3{
+#catfood:hover .food-3{
     fill:black;
     stroke:black;
 }
 
-#cat-food:hover .food-4{
+#catfood:hover .food-4{
     fill:black;
     stroke:black;
 }
 
-#cat-food:hover .food-5{
+#catfood:hover .food-5{
     fill:black;
     stroke:black;
 }
 
-#cat-food:hover .food-13{
+#catfood:hover .food-13{
     fill:black;
     stroke:black;
 }
 
-#cat-food:hover .food-11{
+#catfood:hover .food-11{
     fill:black;
     stroke:black;
 }
